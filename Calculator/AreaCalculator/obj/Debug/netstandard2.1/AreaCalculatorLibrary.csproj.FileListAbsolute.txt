@@ -1,0 +1,9 @@
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\bin\Debug\netstandard2.1\AreaCalculatorLibrary.deps.json
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\bin\Debug\netstandard2.1\AreaCalculatorLibrary.dll
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\bin\Debug\netstandard2.1\AreaCalculatorLibrary.pdb
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\obj\Debug\netstandard2.1\AreaCalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\obj\Debug\netstandard2.1\AreaCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\obj\Debug\netstandard2.1\AreaCalculatorLibrary.AssemblyInfo.cs
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\obj\Debug\netstandard2.1\AreaCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\obj\Debug\netstandard2.1\AreaCalculatorLibrary.dll
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\AreaCalculator\obj\Debug\netstandard2.1\AreaCalculatorLibrary.pdb

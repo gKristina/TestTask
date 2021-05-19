@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZP0nTrY039rp96V6SPIvc1gOSshwTo4m3V9OuCiBQzItwODpUoluSleRnlVpFT2W/lhACaDrdQtVwlUHhQBBCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristina\\Documents\\csharp\\Calculator\\Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

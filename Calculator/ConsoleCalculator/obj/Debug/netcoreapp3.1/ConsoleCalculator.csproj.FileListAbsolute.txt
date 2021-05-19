@@ -1,0 +1,16 @@
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.exe
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.deps.json
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.json
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.dev.json
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\AreaCalculatorLibrary.dll
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\bin\Debug\netcoreapp3.1\AreaCalculatorLibrary.pdb
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CopyComplete
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\Kristina\Documents\csharp\Calculator\Calculator\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.genruntimeconfig.cache
