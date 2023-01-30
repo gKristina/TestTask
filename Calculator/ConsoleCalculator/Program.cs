@@ -15,7 +15,7 @@ namespace ConsoleCalculator
 
             double[] inputArray = Converter.FromStringToDouble(inputLine);
          
-            double result = new Calculations().GetSquareOfShape(inputArray);
+            double result = Calculations.GetSquareOfShape(inputArray);
 
             UImessages.WriteResult(result);
 

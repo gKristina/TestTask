@@ -7,11 +7,19 @@ using System.Text;
 
 namespace AreaCalculator
 {
-    public class Calculations
+    public static class Calculations
     {
-        public double GetSquareOfShape(params double[] sides)
+        public static double GetSquareOfShape(params double[] sides)
         {
-            return DefineShape.BySides(sides).GetSquare();
+            try
+            {
+                return ShapeBuilder.GetShapeBySides(sides).GetSquare();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+           
         }     
     }
 }

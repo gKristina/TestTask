@@ -7,16 +7,21 @@ namespace AreaCalculator.Shapes
 {
     public class Triangle : IShape
     {
-        public double SideA { get; set; }
-        public double SideB { get; set; }
-        public double SideC { get; set; }
-        public int SideCount => 3;
+        public Triangle(double[] sides)
+        {
+            SideA = sides[0];
+            SideB = sides[1];
+            SideC = sides[2];
+        }
+        private double SideA { get; set; }
+        private double SideB { get; set; }
+        private double SideC { get; set; }
 
         public double GetSquare()
         {
-            double halfPerimeter = SideA + SideB + SideC / 2;
+            double halfPerimeter = (SideA + SideB + SideC) / 2;
 
-            return Math.Sqrt(halfPerimeter * (halfPerimeter - SideA) * (halfPerimeter - SideB) * (halfPerimeter - SideC));           
+            return Math.Round(Math.Sqrt(halfPerimeter * (halfPerimeter - SideA) * (halfPerimeter - SideB) * (halfPerimeter - SideC)), 2);           
         }
 
         public bool IsRightTriangle

@@ -1,14 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace AreaCalculator.Shapes
 {
     public class Circle : IShape
     {
-        public double Radius { get; set; }
-        public int SideCount => 1;
-        public double GetSquare() => Math.Pow(Radius, 2) * Math.PI;
+        public Circle(double radius)
+        {
+            Radius = radius;
+        }
 
+        public double GetSquare() => Math.Round(Math.Pow(Radius, 2) * Math.PI, 2);
+        private double Radius { get; set; }
     }
 }
